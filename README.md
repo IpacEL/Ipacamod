@@ -1,4 +1,4 @@
-# C.]Ipacamod IpacEL[4.3 
+# C.]Ipacamod IpacEL[4.3
 [ipowered by Dev and Our-player](https://ipacamod.cc/)  
 您可以在这里提出任何问题, 或是对服务器的功能增强.  
 目前缺少维护, 请等待一段时间, 之后我将推出一些更有用的东西.  
