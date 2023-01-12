@@ -27,7 +27,7 @@
   - [[网页地图]](https://ipacel.cc/map/) `显示一些世界的渲染图和玩家的实时位置`
   - [[上传皮肤]](https://ipacel.cc/Array/skin/) `为离线玩家准备的皮肤上传功能`
   - [[相册]](https://ipacamod.cc/s/o7cd?path=%2F) `服务器的各种截图`
-  - [[赞助]](https://ipacel.cc/Array/econSupp/) `我们依然接受赞助 uwu`
+  - [[赞助]](https://ipacel.cc/Array/econSupp/) `我们依然接受赞助` `uwu`
 <p></p>
 
 - 🍩 开发相关的在线功能
