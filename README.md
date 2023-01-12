@@ -1,30 +1,35 @@
-## Ipacamod IpacEL 4.7.beta
+## Ipacamod IpacEL `4.7.beta`
 
-[ipowered by Dev and Our-player](https://ipacamod.cc/)  
 
-您可以在这里提出任何问题, 或是对服务器的功能增强.  
-目前缺少维护, 请等待一段时间, 之后我将推出一些更有用的东西.  
+**存储库**
 
-## 服务器配置翻译
-- [x] purpur [1.19.2-]
-- [x] paper [1.19.2+]
-- [x] spigot [1.19.2+]
-- [x] bukkit [1.19.2+]
-- [x] mirai [1.18.2]
-- [x] server.properties [1.19.2+]
-- [x] 弃用_paperbin.properties [1.12.2]
-- [x] 弃用_tuinity [1.16.5]
-- [x] 弃用_airplane [1.17.1]
+- [问题](https://github.com/IpacEL/Ipacamod/issues) `在这里打开一个问题, 也可以是错误提交` `! 一些危险的漏洞请通过私信发送给我`
+- 发布的开发文档 `或许对正在开服或准备开服的玩家有帮助`
+	1. [服务器配置文件翻译](https://github.com/IpacEL/Ipacamod/edit/main/dev/translate) `附带中文翻译注释的配置文件`
 
-所有配置注释均由自己查文档翻译[少量机翻], 已修改的配置可能是我自己服务器使用的.  
-部分注释后面带问号表示不确定翻译是否正确[配置比较多, 一部分还没有检查...]部分注释后面的值表示默认值.  
 
-## 服务器启动参数
 
-启动参数: https://ipacel.cc/Range/?p=%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3
-- [x] ShenandoahGC
-```
-启动参数: 发布版本2_beta1, 2022年12月2日更新
--server -Xms16G -Xmx16G -XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+AlwaysPreTouch -XX:+UseLargePages -XX:+PerfDisableSharedMem -XX:+ParallelRefProcEnabled -XX:+DisableExplicitGC -XX:+UseNUMA -XX:ReservedCodeCacheSize=512M -XX:MaxInlineSize=256 -XX:+SegmentedCodeCache -XX:-DontCompileHugeMethods -XX:+OmitStackTraceInFastThrow -XX:ThreadPriorityPolicy=1 -XX:+TrustFinalNonStaticFields -XX:+UseFastUnorderedTimeStamps -XX:+UseXmmI2D -XX:+UseXmmI2F -XX:UseAVX=3 --add-modules=jdk.incubator.vector -XX:+UseVectorCmov -XX:+UseNewLongLShift -XX:+UseFastStosb -XX:+AllowParallelDefineClass -Dlog4j2.formatMsgNoLookups=true -jar
-```
+**网站索引**
 
+- 🍊 服务器的网站主页
+  - [[网站]](https://ipacel.cc/) `ipacel.cc` `我们支持 IPv6 !`
+  - [[备用线路]](https://ipacel.cc/) `www.ipacel.cc` `备用线路只支持 IPv4 网络`
+<p></p>
+
+- 🍥 服务器的在线文档
+  - [[功能文档]](https://ipacel.cc/Range/?p=%E5%8A%9F%E8%83%BD%E6%96%87%E6%A1%A3) `所有功能和使用方法`
+  - [[地标]](https://ipacel.cc/Range/?p=%E5%9C%B0%E6%A0%87) `玩家添加的地标记录, 用于查询`
+  - [[规则/ 参观和白名单申请]](https://ipacel.cc/Range/?p=%E5%9F%BA%E7%A1%80%E8%A7%84%E5%88%99) `如果你想加入服务器, 请看这里`
+  - [[黑名单]](https://ipacel.cc/Range/?p=%E9%BB%91%E5%90%8D%E5%8D%95) `~`
+<p></p>
+
+- 🥡 一些在线功能
+  - [[网页地图]](https://ipacel.cc/map/) `显示一些世界的渲染图和玩家的实时位置`
+  - [[上传皮肤]](https://ipacel.cc/Array/skin/) `为离线玩家准备的皮肤上传功能`
+  - [[相册]](https://ipacamod.cc/s/o7cd?path=%2F) `服务器的各种截图`
+  - [[赞助]](https://ipacel.cc/Array/econSupp/) `我们依然接受赞助 uwu`
+<p></p>
+
+- 🍩 开发相关的在线功能
+  - [[配置翻译工具]](https://ipacel.cc/Array/translator/) `用于批量翻译配置文件`
+  - [[日志数据统计器]](https://ipacel.cc/Array/logStatis/) `没写完的数据统计器`
