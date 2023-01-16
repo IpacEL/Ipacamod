@@ -1,4 +1,4 @@
-```
+```js
  ______                                                            __     
 /\__  _\          Ipacamod powered by Dev and Our-player          /\ \
 \/_/\ \/    _____     ____     ____   ____    ____ ___     ____   \_\ \   
