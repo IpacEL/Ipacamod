@@ -23,7 +23,7 @@
 
 - 🍊 服务器的网站主页
   - [[网站]](https://ipacel.cc/) `ipacel.cc` `我们支持 IPv6 !`
-  - [[备用线路]](https://ipacel.cc/) `www.ipacel.cc` `备用线路只支持 IPv4 网络`
+  - [[备用线路]](https://ipacel.ipacel.top/) `ipacel.ipacel.top`
 <p></p>
 
 - 🍥 服务器的在线文档
