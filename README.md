@@ -13,7 +13,7 @@
 
 **存储库**
 
-- [问题](https://github.com/IpacEL/Ipacamod/issues) `在这里打开一个问题, 也可以是错误提交` `! 一些危险的漏洞请通过私信发送给我`
+- [讨论](https://github.com/IpacEL/Ipacamod/discussions) `社区论坛 (雾`
 - 发布的开发文档 `或许对正在开服或准备开服的玩家有帮助`
 	1. [服务器配置文件翻译](https://github.com/IpacEL/Ipacamod/edit/main/dev/translate) `附带中文翻译注释的配置文件`
 
